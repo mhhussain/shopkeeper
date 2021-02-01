@@ -14,6 +14,7 @@ SET time_zone = "+03:00";
 -- Database: `stock`
 --
 CREATE DATABASE stock;
+USE stock;
 
 -- --------------------------------------------------------
 
